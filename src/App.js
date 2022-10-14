@@ -1,7 +1,7 @@
 import './App.css';
 function App() {
   return (
-    <div className="">
+    <div className="App">
           <span style={{color: 'white'}}>HI! I am Tamim Hasan as a React Developer</span>
     </div>
   );
