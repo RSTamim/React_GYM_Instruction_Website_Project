@@ -72,4 +72,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 # Contact Me
 
-If you have any questions through my linkedin: (https:linkedin.com/in/mr-tamim-94b310226)
+If you have any questions through my linkedin: (https:/linkedin.com/in/mr-tamim-94b310226)
