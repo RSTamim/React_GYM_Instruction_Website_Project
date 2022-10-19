@@ -14,7 +14,7 @@ export const testimonialsData = [
     image: image2,
     review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi ipsam, ab itaque nam perferendis impedit sint ',
     name: 'JOHN KEVIN',
-    status: ''
+    status: 'COACH'
   },
   {
     image : image3,
