@@ -11,7 +11,7 @@ function Hero() {
       <div className="left-h">
         <Header />
 
-        {/* The best add part */}
+        {/* The best ad part */}
         <div className="the-best-ad">
           <div></div>
           <span>The best fitness class in the town</span>
