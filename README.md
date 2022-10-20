@@ -1,6 +1,5 @@
 # My Project overview
 
-![309205616_1506592656472695_4261752985148412770_n](https://user-images.githubusercontent.com/59114274/196914614-765534fa-4ad2-468e-a3d3-135b8b18016b.png)
 
 
 # Getting Started with Create React App
