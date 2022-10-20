@@ -49,7 +49,7 @@ function Hero() {
           </div>
         </div>
 
-        {/* The Hero button */}
+        {/* The Hero  */}
         <div className="hero-buttons">
           <div className="btn">Get Started</div>
           <div className="btn">Learn More</div>
