@@ -75,7 +75,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 # About Project
-I am still working on this 
+I am still working on this Project.
 
 # Contact Me
 
