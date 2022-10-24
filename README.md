@@ -82,4 +82,4 @@ I am still working on this Project. I am still make some changes.
 
 # Contact Me
 
-If you have any questions through my linkedin: (https://linkedin.com/in/mr-tamim-94b310226)
+If you have any questions about this project contact me on my linkedin: (https://linkedin.com/in/mr-tamim-94b310226)
