@@ -2,7 +2,7 @@
 ![Project-OverView](https://user-images.githubusercontent.com/59114274/197007887-625804a0-6d73-45ef-8bdf-20cbcbd805d8.png)
 
 
-# Getting Started with Create React Ap
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
